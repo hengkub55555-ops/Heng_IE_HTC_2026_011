@@ -1,0 +1,6 @@
+{
+  "name": "PRO GOLD TRADER 96.5% - วางแผนเทรดทองคำ & ตลาดทองคำเรียลไทม์",
+  "description": "ระบบวิเคราะห์ วางแผนเทรด และคำนวณกำไรขาดทุนทองคำแท่ง 96.5% เชื่อมโยงราคาทองโลก (Gold Spot) และค่าเงินบาท (USD/THB) อ้างอิงสมาคมค้าทองคำ YLG และฮั่วเซ่งเฮง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
